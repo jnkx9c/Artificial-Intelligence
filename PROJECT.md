@@ -35,7 +35,7 @@ Below is the list of all phases and the outline of what you will be working on i
 
 ### Phase II. Model selection & evaluation
 1. Practice Activities 3, 4 & 5 in [Neural networks using Tensorflow](https://github.com/badriadhikari/neural-networks-using-tensorflow).
-1. Split your data into training, and validation sets.
+1. Split your data into training and validation sets.
 1. Compare the results of the neural network with a linear regression or logistic regression model
     - Start with a basic model and then grow your model into a multi-layered model
     - Discuss how neural network models will be selected

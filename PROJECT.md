@@ -52,8 +52,8 @@ Below is the list of all phases and the outline of what you will be working on i
      ```
 1. Plot your learning curves and include them in your report
 1. Discuss what architecture (how big) you need to overfit the data
-1. Discuss what architecture (how big) you do need to overfit when you have output as additional input feature
 1. Evaluate your predictions (using Precision, Recall, MAE, MSE, etc.)
+1. [FOR GRADUATE STUDENTS ONLY] Discuss what architecture (how big) you do need to overfit when you have output as additional input feature
 1. [FOR GRADUATE STUDENTS ONLY] Code a function that represents your model
    - After your model is trained, read all the weights, and build your own function/method that serves as the model
    - Verify that predictions you obtain are same as the one you obtained using your trained model

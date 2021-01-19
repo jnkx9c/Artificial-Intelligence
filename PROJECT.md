@@ -23,7 +23,8 @@ Below is the list of all phases and the outline of what you will be working on i
 ### Phase I. Data analysis & preparation
 1. Practice "Activities 1 and 2" in [Neural networks using Tensorflow](https://github.com/badriadhikari/neural-networks-using-tensorflow).
 1. Watch [how to clean a tabular dataset for machine learning](https://youtu.be/0bj6KbEUJ_o).
-1. Load the dataset in a Python Notebook and normalize your data.
+1. Find a dataset for your project. You can pick a dataset from the [UCI ML database](https://archive.ics.uci.edu/ml/datasets.php) or [Kaggle](https://www.kaggle.com/).
+1. Load your dataset in a Python Notebook and normalize your data.
 1. In your report:
     - Discuss why you chose to work on this project.
     - Describe the dataset and its source.

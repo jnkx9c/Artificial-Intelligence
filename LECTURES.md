@@ -61,7 +61,7 @@
 1. [Military robots and future of war](https://www.ted.com/talks/pw_singer_on_robots_of_war/transcript?language=en)
 1. [The real reason to be afraid of AI](https://www.youtube.com/watch?v=TRzBk_KuIaM)
 
-## Fair Artificial Intelligence (for bonus points)
+## Fair Artificial Intelligence
 ### Background
 Will AI that discriminates based on race, gender, or economic status undermine the public’s confidence in the technology? Seduced by the promise of cost savings and data-driven decision making, organizations will deploy biased systems that end up doing real-world damage. Systems incorporating biased algorithms or trained on biased data will misdiagnose medical patients, bar consumers from loans or insurance, deny parole to reformed convicts, or grant it to unrepentant ones. Biased implementations have raised public backlash as organizations both private and public figure out what AI can and can’t do, and how to use it properly. (source: [The Batch](https://www.deeplearning.ai/thebatch/))
 

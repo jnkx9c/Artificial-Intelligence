@@ -17,7 +17,7 @@
 CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
 
 ## 4. Learning outcomes  
-This course consists of (a) the book's chapter topics in the form of recorded lectures along with corresponding homeworks, (b) a collection of [activities](./activities/README.md) as a crash course on 'machine learning using Keras/Tensorflow', and (c) a semester-long [project](./PROJECT.md) on feed-forward neural networks. If you are new to artificial intelligence, Python, and machine learning, the activites and the project will require some exploration and study. But they provide you opportunities to learn the fundamentals of neural networks and the state-of-the art libraries to build prediction systems. Below are the learning outcomes:
+This course consists of (a) the book's chapter topics in the form of [recorded lectures](./LECTURES.md) along with corresponding homeworks, (b) a collection of activities as a crash course on [machine learning using Keras/Tensorflow](https://github.com/badriadhikari/neural-networks-using-tensorflow), and (c) a semester-long [project](./PROJECT.md) on feed-forward neural networks. If you are new to artificial intelligence, Python, and machine learning, the activites and the project will require some exploration and study. But they provide you opportunities to learn the fundamentals of neural networks and the state-of-the art libraries to build prediction systems. Below are the learning outcomes:
 * Use Python, Numpy and Keras to design, train, and evaluate basic feed-forward neural networks
 * Learn artificial intelligence principles and approaches
 * Learn a basic understanding of the building blocks of AI as presented in terms of intelligent agents
@@ -31,7 +31,8 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
 
 ## 6. Course topics
 - **Book chapters**  
-  - Chapter 18 - Learning From Examples 
+  - Chapter 18 - Learning From Examples
+     - Note: We will start from this chapter so you can start the project early.
   - Chapter 1 - Introduction 
   - Chapter 2 - Intelligent Agents
   - Chapter 3 - Solving Problems by Searching 

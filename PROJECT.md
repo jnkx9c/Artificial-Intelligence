@@ -1,6 +1,6 @@
 # Semester-long course project
 
-The course lectures and [activities](https://github.com/badriadhikari/neural-networks-using-tensorflow) provided in the 'Neural networks using Tensorflow' module will help you learn all the background to complete this semester-long course project.
+The course lectures and activities provided in the [Neural networks using Tensorflow](https://github.com/badriadhikari/neural-networks-using-tensorflow) module will help you learn all the background to complete this semester-long course project.
 
 ## A. Objectives
 The overall goal of working on this semester long project is to learn the foundations of using Tensorflow/Keras to build, train, and evaluate feed-forward neural networks on standard tabular data that can be framed as a classification or a regression problem. If you are learning machine learning for the first time, a binary classification problem will probably be easier (not a regression problem). A problem is 'binary classification' if your output column is 0 or 1.  If you are predicting continous values using a pre-cleaned tabular dataset. While working on the project you will compare the performance (accuracy, speed, etc.) of various  neural network models including a basic single layer model. For a regression problem, the single layer model is a linear regression model, and for a binary classification problem, the single layer model is a logistic regression model. You will also learn to investigate "what", "how", and "why" a model makes predictions. Following are the restrictions when choosing a dataset:

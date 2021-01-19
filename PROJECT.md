@@ -21,7 +21,7 @@ The overall goal of working on this semester long project is to learn the founda
 Below is the list of all phases and the outline of what you will be working on in each phase. 
 
 ### Phase I. Data analysis & preparation
-1. Practice Activities 1 and 2 in [Neural networks using Tensorflow](https://github.com/badriadhikari/neural-networks-using-tensorflow).
+1. Practice "Activities 1 and 2" in [Neural networks using Tensorflow](https://github.com/badriadhikari/neural-networks-using-tensorflow).
 1. Watch [how to clean a tabular dataset for machine learning](https://youtu.be/0bj6KbEUJ_o).
 1. Load the dataset in a Python Notebook and normalize your data.
 1. In your report:
@@ -34,7 +34,7 @@ Below is the list of all phases and the outline of what you will be working on i
 [Here](https://github.com/zegster/artificial-intelligence/blob/master/data_analysis_and_preparation/Data_Analysis_and_Preparation.pdf) is an example report.
 
 ### Phase II. Model selection & evaluation
-1. Practice Activities 3, 4, 5 & 6 in [Neural networks using Tensorflow](https://github.com/badriadhikari/neural-networks-using-tensorflow).
+1. Practice "Activities 3, 4, 5, 6, 7, 8 & 9" in [Neural networks using Tensorflow](https://github.com/badriadhikari/neural-networks-using-tensorflow).
 1. Split your data into training and validation sets.
 1. Compare the results of the neural network with a linear regression or logistic regression model
     - Start with a basic model and then grow your model into a multi-layered model
@@ -60,6 +60,7 @@ Below is the list of all phases and the outline of what you will be working on i
 [Here](https://github.com/zegster/artificial-intelligence/blob/master/model_selection_and_evaluation/Model_Selection_Evaluation.pdf) is an example report.
 
 ### Phase III. Feature importance and reduction
+1. Practice "Activity 10" in [Neural networks using Tensorflow](https://github.com/badriadhikari/neural-networks-using-tensorflow).
 1. Study feature importance by iteratively removing input features
 1. Identify non-informative input features and remove them
 1. Compare your feature-reduced model with the original model with all input features

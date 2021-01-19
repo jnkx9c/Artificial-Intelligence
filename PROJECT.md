@@ -1,6 +1,6 @@
 # Semester-long course project
 
-The [activities](./activities/README.md) that we will cover will help you learn all the background to complete this semester-long course project.
+The course lectures and [activities](https://github.com/badriadhikari/neural-networks-using-tensorflow) provided in the 'Neural networks using Tensorflow' module will help you learn all the background to complete this semester-long course project.
 
 ## A. Objectives
 The overall goal of working on this semester long project is to learn the foundations of using Tensorflow/Keras to build, train, and evaluate feed-forward neural networks on standard tabular data that can be framed as a classification or a regression problem. If you are learning machine learning for the first time, a binary classification problem will probably be easier (not a regression problem). A problem is 'binary classification' if your output column is 0 or 1.  If you are predicting continous values using a pre-cleaned tabular dataset. While working on the project you will compare the performance (accuracy, speed, etc.) of various  neural network models including a basic single layer model. For a regression problem, the single layer model is a linear regression model, and for a binary classification problem, the single layer model is a logistic regression model. You will also learn to investigate "what", "how", and "why" a model makes predictions. Following are the restrictions when choosing a dataset:
@@ -21,12 +21,15 @@ The overall goal of working on this semester long project is to learn the founda
 Below is the list of all phases and the outline of what you will be working on in each phase. 
 
 ### Phase I. Data analysis & preparation
+1. Practice Activities 1 and 2 in [Neural networks using Tensorflow](https://github.com/badriadhikari/neural-networks-using-tensorflow).
 1. Watch [how to clean a tabular dataset for machine learning](https://youtu.be/0bj6KbEUJ_o).
-1. Discuss why you chose to work on this project.
-1. Describe the dataset and its source.
-1. Visualize/plot the distributions of each input features and discuss the range of the values (min, max, mean, median, etc.). For example, plot histograms showing distribution of each input features.
-1. Discuss the distribution of the output labels. In the case of classification, check if the data is imbalanced by calculating what percentage of the output labels are 0 and what percentage are 1. If your dataset is heavily imbalanced (for example, 1% vs 99%) it may be easier if you choose a different dataset. In the case of regression, check if the values are uniformly distributed or not by plotting the distribution of the output variable.
-1. Discuss how you normalized your data.
+1. Load the dataset in a Python Notebook and normalize your data.
+1. In your report:
+    - Discuss why you chose to work on this project.
+    - Describe the dataset and its source.
+    - Visualize/plot the distributions of each input features and discuss the range of the values (min, max, mean, median, etc.). For example, plot histograms showing distribution of each input features.
+    - Discuss the distribution of the output labels. In the case of classification, check if the data is imbalanced by calculating what percentage of the output labels are 0 and what percentage are 1. If your dataset is heavily imbalanced (for example, 1% vs 99%) it may be easier if you choose a different dataset. In the case of regression, check if the values are uniformly distributed or not by plotting the distribution of the output variable.
+    - Discuss how you normalized your data.
 
 [Here](https://github.com/zegster/artificial-intelligence/blob/master/data_analysis_and_preparation/Data_Analysis_and_Preparation.pdf) is an example report.
 

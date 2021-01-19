@@ -52,80 +52,54 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
  
 ## 8. Week-by-week course schedule (tentative)
 
-1. **08/27**
-   - Summary homework due next week: Chapter 18 
-   - Activity due next week: Activity 01
-   - Meeting discussion topics: Syllabus + Colab + Activity 01
+1. **01/21**
+   - Meeting topics: Syllabus + NN crash course + Why start from Chapter 18
+   - Due next week:
+      - Concept map homework: None
+      - Quiz: None
+      - Chapter homework: None
+      - Project: None
 
-1. **09/03**
-   - Summary homework due next week: Chapter 01 
-   - Activity due next week: Activity 02 & 03
-   - Meeting discussion topics: QnA
+1. **01/28**
+   - Meeting topics: QnA + Project ideas
+   - Due next week:
+      - Concept map homework: Chapter 18
+      - Quiz: Chapter 18
+      - Chapter homework: None
+      - Project: None
+      
 
-1. **09/10**
-   - Summary homework due next week: Chapter 02
-   - Activity due next week: Activity 4, 5 & 6
-   - Meeting discussion topics: QnA
+1. **02/04**
+   - Meeting topics: QnA
+   - Due next week:
+      - Concept map homework: Chapter 1 and Chapter 2
+      - Quiz: Chapter 1 & 2
+      - Chapter homework: None
+      - Project: None
 
-1. **09/17**
-   - Summary homework due next week: Chapter 03 
-   - Activity due next week: Activity 7 & 10
-   - Meeting discussion topics: QnA
+1. **02/11**
+   - Meeting topics: QnA
+   - Due next week:
+      - Concept map homework: Chapter 3
+      - Quiz: Chapter 3
+      - Chapter homework: Chapter 3 (Homeworks 1 & 2 - BFS)
+      - Project: None
 
-1. **09/24**
-    - Summary homework due next week: Chapter 05
-    - Activity due next week: Activity 8, 9, and 11
-    - Project phase due next week: Phase I
-    
-1. **10/01**
-   - Summary homework due next week: Chapter 07 
-   - Activity due next week: Activity 12 & 13
-   - Meeting discussion topics: QnA
+1. **02/18**
+   - Meeting topics: QnA
+   - Due next week:
+      - Concept map homework: Chapter 5
+      - Quiz: Chapter 5
+      - Chapter homework: Chapter 5 (Alpha-beta pruning)
+      - Project: Phase I
 
-1. **10/08**
-    - No meeting
-
-1. **10/15**
-    - Summary homework due next week: N/A
-    - Activity due next week: Activity 14 & 15
-    - Meeting discussion topics: QnA
-
-1. **Mid-term week**
-
-1. **10/29**
-   - Summary homework due next week: Chapter 22 - NLP
-   - Activity due next week: Activity 16 (page rank)
-   - Meeting discussion topics: QnA
-
-1. **11/05**
-   - Summary homework due next week: Chapter 24 - Perception
-   - Activity due next week: Activity 18 (Convolution)
-   - Meeting discussion topics: QnA
-
-1. **11/12**
-   - Summary homework due next week: Chapter 25 - Robotics
-   - Activity due next week: Activity 17 (Early stopping)
-
-1. **11/19**
-   - Summary homework due next week: Chapter 26 - Philosophical Foundations 
-   - Activity due next week: Activity 19 (Feature selection) 
-   - Meeting discussion topics: Project phase III
-
-1. **Thanksgiving break**
-
-1. **12/03**
-   - Summary homework due next week: Fair AI
-   - Activity due next week: N/A
-   - Project phase due next week: Phase III 
-   - Meeting discussion topics: Project phase III & Final report
-
-1. **12/10**
-   - Summary homework due next week: N/A
-   - Activity due next week: N/A
-   - Meeting discussion topics: QnA + Final report
-
-1. **Finals week**
-   - Project final report
+1. **02/25**
+   - Meeting topics: QnA
+   - Due next week:
+      - Concept map homework: Chapter 7
+      - Quiz: Chapter 7
+      - Chapter homework: None
+      - Project: None
 
 ## 9. Academic dishonesty
 Any form of academic dishonesty in this class will result in an F for the semester and the case will be referred to the provost's office for possible further disciplinary action, regardless of how trivial it is. Please don't use another student's assignment (or a solution in the internet) to complete your own assignment. Discussing the material is 'OK', but please do your work on your own. You should complete the homework alone, not together, and not in a group. If you have any questions about any of the lessons or the assignments, please contact me, and I will point you in the right direction. Please read [UMSL's policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html) and keep yourself out of plagiarism. Also, please remember that our `turnitin` tool also automatically checks for plagiarism.

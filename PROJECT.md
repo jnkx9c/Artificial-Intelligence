@@ -34,7 +34,8 @@ Below is the list of all phases and the outline of what you will be working on i
 [Here](https://github.com/zegster/artificial-intelligence/blob/master/data_analysis_and_preparation/Data_Analysis_and_Preparation.pdf) is an example report.
 
 ### Phase II. Model selection & evaluation
-1. Split your data into training, and validation sets
+1. Practice Activities 3, 4 & 5 in [Neural networks using Tensorflow](https://github.com/badriadhikari/neural-networks-using-tensorflow).
+1. Split your data into training, and validation sets.
 1. Compare the results of the neural network with a linear regression or logistic regression model
     - Start with a basic model and then grow your model into a multi-layered model
     - Discuss how neural network models will be selected
@@ -52,7 +53,7 @@ Below is the list of all phases and the outline of what you will be working on i
 1. Discuss what architecture (how big) you need to overfit the data
 1. Discuss what architecture (how big) you do need to overfit when you have output as additional input feature
 1. Evaluate your predictions (using Precision, Recall, MAE, MSE, etc.)
-1. [OPTIONAL] Code a function that represents your model
+1. [FOR GRADUATE STUDENTS ONLY] Code a function that represents your model
    - After your model is trained, read all the weights, and build your own function/method that serves as the model
    - Verify that predictions you obtain are same as the one you obtained using your trained model
 

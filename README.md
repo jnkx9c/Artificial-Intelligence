@@ -151,34 +151,20 @@ Python3 is language for the course; you are expected to use Python3 for all of y
 * See [here](activities/README.md).
 
 ## 14. Homeworks
-There will be two types of homeworks: [project homeworks](./PROJECT.md), and [drawing concept maps](./CONCEPT-MAPS.md) as chapter summaries.
+There will be three types of homeworks: [project homeworks](./PROJECT.md), [drawing concept maps](./CONCEPT-MAPS.md) as chapter summaries, and some chapters have additional [homeworks](./HOMEWORKS.md).
 
-<!--
-### Chapter summary homeworks
-The homework here is to write a 1000 words summary of each chapter after watching the [recorded lectures](./LECTURES.md). Please see the course schedule above for submission deadlines.
-1. Your summary should be at least 1000 words (at least 1500 words for graduate students) of `plain text`.
-1. All text must be `in your own words` and anything copied must be quoted and cited appropriately.
-1. Your summary should not be all bullets, use bullets only when appropriate.
-1. Your chapter summary must be divided into the [topics of the chapter](./LECTURES.md). For example, the summary on the chapter `Preception` should have the corresponding four sections.
-1. All homeworks will be automatically checked for plagarism using the Canvas plugin Turnitin. If you copy/paste contents from the Internet, you will receive a `zero` for your submission. Serious actions will be taken for any repeated plagarism.
--->
+## 15. Grade composition  
 
-## 15. Required one-on-one meeting with the instructor
-The mid-term and the final for this course will be in the form of one-on-one interaction with the instructor, via Zoom. Each meeting may be up to 30 minutes long. The meeting will be an opportunity for us to discuss how you are doing in the course. During the meeting we may walk through your homework submissions and explore the aspects of the course that you are struggling with (if there are any). If we find that you are struggling to understand some key concepts and/or unable to complete some assignments, you may be suggested resources so you can do better in the remaining assignments. Please check to make sure that you have submitted all your homeworks and assignments that are due. This will also be an opportunity for you to provide feedbacks. In very rare cases, if I have suspected any plagiarism in your homework submissions, I may also enquire you about it. Closer to the meeting dates, you will be able to sign-up to select a time that works for you during a period of 2/3 days. In order to receive points, you must schedule and attend the one-on-one meetings. 
-
-## 16. Grade composition  
-
-| Submission | Points/submission | Total Points |
-| :--- | ---: | ---: |
-| 10 chapter summaries | 2 | 20 |
-| 3 project phases | 6 | 18 |
-| 1 final project report | 12 | 12 |
-| 20 activities | 1 | 20 |
-| 2 one-on-one interactions | 15 | 30 |
+| Submission | Total Points |
+| :--- | ---: |
+| Chapter concept maps | 10 |
+| Chapter homeworks | 20 |
+| Chapter quizes | 20 |
+| Semester-long project | 50 |
 
 Note: One (1) bonus point will be assigned to everyone who completes the course evaluation survey. Please email me once you submit the survey.
 
-## 17.Grading scheme  
+## 16.Grading scheme  
 
 | Points      | Grade |
 | ----------- | ----- |
@@ -195,13 +181,13 @@ Note: One (1) bonus point will be assigned to everyone who completes the course 
 | <64% to 61% | D-    |
 | <61% to 0%  | F     |
 
-## 18. Resources  
+## 17. Resources  
 Your success in this class is important to me. If you need official accommodations, you have a right to have these met. If there are aspects of this course that prevent you from learning or exclude you, please let me know as soon as possible. Together we’ll develop strategies to meet both your needs and the requirements of the course. I encourage you to visit the following links to determine how you could improve your learning as well. 
 
 * [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221)
 * [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223)
 
-## 19. What students say
+## 18. What students say
 
 > "This course is like no other in the computer science department. Professor Badri went above and beyond to help us achieve the skills we will use in our work life after university. Many professors keep teaching the same theory stuff again and again and after the semester its impossible to recall what we studied but for this course we did a lot of programming and that we will remember and use in our actual life. I loved this class and other classes taught in this way." - A student in spring 2020 class.
 

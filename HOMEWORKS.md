@@ -1,17 +1,17 @@
 # Chapter 3
 ## 1. Breadth-first search (BFS) tree
-This is not a programming activity. Tracing the [breadth-first search (BFS) algorithm](./bfs.png) for a problem results in a BFS tree. [Here](./bfstree.png) is an example BFS tree. Below is a map of India highlighting some of the international airports in the country. Nick wants to go to Amritsar from Chennai. In PAPER, draw a BFS tree for the graph of airport cities with starting node as Chennai (C).  
+This is not a programming activity. Tracing the [breadth-first search (BFS) algorithm](./homeworks/bfs.png) for a problem results in a BFS tree. [Here](./homeworks/bfstree.png) is an example BFS tree. Below is a map of India highlighting some of the international airports in the country. Nick wants to go to Amritsar from Chennai. In PAPER, draw a BFS tree for the graph of airport cities with starting node as Chennai (C).  
 
 * Lectures: [Uninformed Search Algorithms](https://youtu.be/eyXynZTshP0?t=174)  
 
-<p align="center"> <img src="iia.png" align="middle" width="350"/> </p>
+<p align="center"> <img src="./homeworks/iia.png" align="middle" width="350"/> </p>
 
 ## 2. Implement the breadth-first search (BFS) algorithm
 With the help of the code blocks provided below, implement the BFS algorithm (in Python) to find the shortest path from Sibiu to Bucharest in the following map. Note that in a standard BFS algorithm/implementation, we ignore the connection weights.
 
 * Lectures: [Uninformed Search Algorithms](https://youtu.be/eyXynZTshP0?t=174)  
 
-<p align="center"> <img src="map-romania-trimmed.png" align="middle" width="250"/> </p>
+<p align="center"> <img src="./homeworks/map-romania-trimmed.png" align="middle" width="250"/> </p>
    
 Queue basics in Python:
 ```python

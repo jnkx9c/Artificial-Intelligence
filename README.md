@@ -42,6 +42,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
   - Chapter 24 - Perception 
   - Chapter 25 - Robotics
   - Chapter 26 - Philosophical Foundations  
+  - Fair Artificial Intelligence
 - **Machine learning using Tensorflow**   
   - Basics of Python, Numpy and Keras
   - Design, train, and evaluate basic feed-forward neural networks
